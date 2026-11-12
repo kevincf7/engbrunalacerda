@@ -85,3 +85,33 @@ Não havia como ler o gasto por anúncio, então eles foram incluídos porque n�
 
 - VID_258: o primeiro job falhou com erro genérico da Meta (código 2) e foi revertido automaticamente pela
   ferramenta. Reenviado, criou sem problema.
+
+## Lote 2 — criativos novos da pasta do Drive (12/11/2026)
+
+Origem: pasta do Drive `1YdO52GZ5XnQ-44hiPNc1efSAVR5jnM-i` (subpastas VÍDEOS e CARROSSEL/CARROSSEL 69).
+Mesma estrutura do lote 1 (referência, R$50/dia CBO, 13/11 00:01 → 20/11 22:00, ativas, público e
+4 posicionamentos do Instagram).
+
+Na pasta havia dois arquivos V265 e dois V266, com tamanhos diferentes. O usuário pediu para subir todos:
+os que têm nome descritivo ficaram VID_265/VID_266, e os arquivos `V265.mp4`/`V266.mp4` ficaram
+VID_265_B/VID_266_B.
+
+Copy dos anúncios novos (passada explicitamente, sem herdar da referência, que aponta para /profissaoregularizador):
+- Texto: "🚨 INGRESSOS LIBERADOS 🚨 … Ingresso por apenas R$27. Clique em SAIBA MAIS." (o mesmo do lote 1)
+- Título: "Ingressos Limitados", CTA LEARN_MORE, link `/especialista-regularizacao/`, mesmas UTMs, página 286603588447424
+- Carrossel: 5 cards (lâminas 1–5 em ordem), cada um com o mesmo título, link e CTA
+
+Posicionamentos: a ferramenta removeu Feed/Perfil dos 6 vídeos (verticais) e Reels/Stories do carrossel.
+Os 4 posicionamentos foram recolocados com `updateAdSet` em todos os 7 conjuntos, que também foram renomeados.
+
+| Criativo | Arquivo no Drive | Vídeo Meta | Campanha (ID) | Criativo |
+|---|---|---|---|---|
+| VID_263 | V263 - VIDEO 3D CIDADE.mp4 | 2550930618737478 | 120253274167110163 | 1479940404243607 |
+| VID_264 | V264 - VIDEO 3D CADERNO.mp4 | 2226830161600439 | 120253274172870163 | 2419473145548928 |
+| VID_265 | V265 - VIDEO 3D POPUP CASA.mp4 | 1715391903479466 | 120253274177860163 | 1659386929314937 |
+| VID_265_B | V265.mp4 | 1825059828642798 | 120253274187560163 | 1666227888496037 |
+| VID_266 | V266 - VIDEO 3D PASTA DO CLIENTE.mp4 | 1254277180597969 | 120253274180770163 | 2389186778486177 |
+| VID_266_B | V266.mp4 | 1428375293694101 | 120253274192190163 | 1685875173111139 |
+| CARR_69 | CARROSSEL 69 - LAMINA 1–5.png | — | 120253274154570163 | 1145105314711939 |
+
+Total geral (lotes 1 + 2): 31 campanhas × R$50 = R$1.550/dia.
