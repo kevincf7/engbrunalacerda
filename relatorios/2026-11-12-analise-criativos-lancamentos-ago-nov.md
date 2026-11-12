@@ -89,39 +89,21 @@ Ordenados por ingressos vendidos, somando os 3 lançamentos.
 - **O que esperam aprender:** passo a passo / processo completo (42%), documentação, cartório, órgãos e
   CND (16%), começar uma nova área (14%), **captar clientes** (10% no geral, **16% entre compradores DDA**).
 
-## Tema recomendado e as 3 VSLs curtas
+## Tema recomendado e as 3 VSLs curtas (atualizado com as transcrições)
 
-Limitação: o texto do anúncio é praticamente o mesmo em todos os criativos. O tema de cada vídeo está
-no próprio vídeo, e não consegui abrir os arquivos. No Drive estão sem transcrição e acima do limite de
-download; o servidor de imagens do Meta está bloqueado neste ambiente. A única copy diferente entre os
-campeões é a do VID_181 ("aprender em 1 dia… abrir caminho para faturar 10 MIL por mês"). As VSLs
-abaixo partem dela, da pesquisa e dos números acima. **Antes de produzir, confirmar o assunto de
-VID_161, VID_181, VID_133, VID_27 e VID_RMKT_03.**
+As transcrições de V161, V181, V133 e V27 confirmam que os 4 vendem **o mesmo tema**: um processo de
+regularização vale R$10 mil, tem 3 etapas (Prefeitura → Receita Federal → Cartório) e dá para aprender
+na prática, do zero, em um dia. Os criativos mudam só a porta de entrada:
 
-### Tema principal (VSL 1) — "Uma nova fonte de renda de R$10 mil/mês com regularização"
-- **Por quê:** é a promessa do criativo de maior gasto (VID_181, 9 DDA) e casa com o sonho nº 1 dos
-  compradores DDA: liberdade financeira mais renda extra, 46% somados.
-- **Público:** engenheiros civis e arquitetos que faturam R$2,5–10 mil.
-- **Estrutura (60–90 s):** gancho com o número (R$10 mil/mês) → por que existe tanto imóvel irregular
-  (oportunidade de mercado) → prova (Bruna e alunos) → o que a Imersão entrega em 1 dia → oferta R$47 → CTA para a LP.
+| VSL | Tema | Origem | Somado |
+|---|---|---|---|
+| 1 (principal) | O processo de R$10 mil em 3 etapas | V161 + V181 | 186 ingressos, 18 DDA |
+| 2 | R$500 ou R$10 mil? Quanto cobrar | V133 + V27 | 105 ingressos, 13 DDA (melhor eficiência em DDA) |
+| 3 | Seu primeiro processo, do zero | promessa do V161/V181 + pesquisa | público "ainda não atuo" (55%) |
 
-### VSL 2 — "O passo a passo que a faculdade não te ensinou"
-- **Por quê:** "passo a passo / processo completo" é a expectativa nº 1 (42%). Documentação, cartório e
-  órgãos vêm em seguida. Isso também ataca a insegurança técnica testada no 173 ("não saber responder ao cliente").
-- **Estrutura:** gancho "você se formou e ninguém te ensinou a regularizar um imóvel" → as 3–4 etapas
-  (visita → levantamento e documentação → prefeitura e cartório → entrega) → o erro comum que trava quem
-  começa → "na Imersão eu mostro cada etapa, ao vivo" → CTA.
+Os roteiros completos, na estrutura da VSL de referência (gancho de mercado → vilão → depoimentos →
+mecanismo → bullets → oferta → escassez → pergunta final), estão em
+`criativos/2026-11-12-roteiros-vsl-curtas.md`.
 
-### VSL 3 — "Seu escritório, seus horários: liberdade e tempo com a família"
-- **Por quê:** "próprio negócio" e "família/tempo" quase dobram entre os compradores DDA (13% cada,
-  contra 7–8% no geral). O 170 DESEJO_TEMPO E FAMÍLIA vendeu com pouca verba (CPA R$217) e merece um
-  teste com roteiro mais forte.
-- **Estrutura:** cena do dia a dia (trânsito, CLT, obra sem fim) → virada: serviço de regularização com
-  ticket alto, feito do próprio escritório → como captar os primeiros clientes (16% dos compradores DDA
-  querem isso) → convite para a Imersão → CTA.
-
-### Como rodar o teste
-- Enviar as 3 VSLs **para a LP**, e não direto ao checkout. Os criativos `_SS` mostram que a ida direta
-  vende ingresso barato, mas não vende o DDA.
-- Usar os 4 posicionamentos do Instagram (Feed, Perfil, Reels, Stories), conforme as regras do repositório.
-- Julgar os criativos por vendas DDA e CPA de ingresso, não só por CPA.
+Recomendação de teste: mandar as VSLs para a LP, não direto ao checkout, usar os 4 posicionamentos do
+Instagram e julgar por vendas DDA e CPA de ingresso.
