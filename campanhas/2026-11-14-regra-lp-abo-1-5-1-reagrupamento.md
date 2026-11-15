@@ -38,3 +38,15 @@ A primeira tentativa da campanha ESTATICOS foi enviada com início em 14/11 às 
 15/11 às 00:01. A Meta não deixa mudar a data inicial nos 15 minutos antes do início. Por isso essa campanha
 (`120253308235840163`) foi **pausada** antes de começar, renomeada para `[NAO USAR - DUPLICADA] …` e recriada com o início
 correto. Ela não teve gasto e pode ser excluída no Gerenciador de Anúncios.
+
+## Complemento (15/11/2026): campanha ABO com os 4 criativos que rodaram
+
+Os 4 criativos que gastaram nas campanhas 1-1-1 (VID_252, VID_254, VID_264 e IMG_08) foram colocados numa campanha ABO própria,
+na mesma estrutura das 5 campanhas acima: um conjunto por criativo, R$50/dia cada (**R$200/dia**), mesma referência,
+público, posicionamentos (todos mantidos) e copy.
+
+- Campanha: `[REGRA] [LP] [ABO] [COMPRA] [FRIO] [2026_11_DDA] [1-4-1] - VENCEDORES` (`120253317531880163`)
+- Início: **16/11/2026 às 00:01**. Fim: 20/11/2026 às 22:00. ATIVA (agendada).
+- Criativos: VID_252 (4746452325576169), VID_254 (1444127157932787), VID_264 (2419473145548928), IMG_08 (2159381978002677)
+- As 4 campanhas CBO 1-1-1 originais desses criativos **continuam ativas**, por decisão do usuário. Ele decide depois se pausa.
+  Enquanto as duas estruturas rodarem juntas, cada criativo concorre com ele mesmo no leilão.
