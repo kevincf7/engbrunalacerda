@@ -49,4 +49,10 @@ Criativos: pasta do Drive 1eMwqdHr-GKfIeZMIDmoh_KPNfybEV5Q_ (apenas os arquivos 
 > 👇 Clique em Saiba Mais e baixe seu ebook grátis.
 
 ## Resultado do job
-(preenchido após a conclusão)
+Worker 73063 COMPLETED: 1 campanha, 6 conjuntos e 26 anúncios criados, nenhuma falha.
+Conferido no Meta: tudo ACTIVE, R$30/dia por conjunto, posicionamentos reels+story mantidos (a ferramenta não removeu nenhum), exclusões corretas.
+
+- Campanha: 120253501902350163
+- EBOOK1: 120253501903490163 · EBOOK2: 120253501908310163 · EBOOK3: 120253501915670163
+- EBOOK4: 120253501923960163 · EBOOK5: 120253501930020163 · EBOOK6: 120253501935160163
+- Gerenciador: https://business.facebook.com/adsmanager/manage/campaigns?act=367662610821507&selected_campaign_ids=120253501902350163
